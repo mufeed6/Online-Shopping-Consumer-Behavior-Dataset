@@ -19,3 +19,6 @@ Online shopping store wants to create an annual sales report for 2022. So that, 
 
 # The Conclusion to improve online store sales for 2023
 Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka, Uttar Pradesh, Delhi and Tamil nadu by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
+
+# Source 
+https://www.kaggle.com/datasets
